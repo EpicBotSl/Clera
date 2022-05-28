@@ -27,12 +27,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "18895284"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": ""
+         "value": "3091d00186aa25b92a9b791dcebd59de"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, Leave this field empty if you don't have one.",
@@ -42,11 +42,11 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1356469075"
+         "value": "5381705557"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
-        "value": ""
+        "value": "1ece8e72-512c-47dd-a23d-ac83c99123df"
       },
       "HEROKU_APP_NAME": {
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
