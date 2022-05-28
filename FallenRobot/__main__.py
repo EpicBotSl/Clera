@@ -218,8 +218,8 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            "Heya [:](https://telegra.ph/file/ed96a291f7700eb8ceb9e.jpg) ) PM me if you have any questions on how to use me!".
-            
+            "ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀ !\n<b>ɪ ᴅɪᴅɴ'ᴛ sʟᴇᴘᴛ sɪɴᴄᴇ​:</b> <code>{}</code>".format(
+                uptime
             ),
             parse_mode=ParseMode.HTML,
         )
