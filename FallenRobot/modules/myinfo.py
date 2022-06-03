@@ -16,13 +16,13 @@ from FallenRobot import dispatcher
 
 
 edit_time = 5
-""" =======================ᴄʟᴇʀᴀ ROBOT====================== """
-file1 = "https://telegra.ph/file/342e59ba4c031845a9133.jpg"
-file2 = "https://telegra.ph/file/fab8f905dcc30f37e59eb.jpg"
-file3 = "https://telegra.ph/file/24d7fbcbad2d146979b8a.jpg"
-file4 = "https://telegra.ph/file/f1e1e840844368224ac7d.jpg"
-file5 = "https://telegra.ph/file/5d841f249091eb393b123.jpg"
-""" =======================ᴄʟᴇʀᴀ ROBOT====================== """
+""" =======================FALLEN ROBOT====================== """
+file1 = "https://telegra.ph/file/9a85d0a873e2dd80d278d.jpg"
+file2 = "https://telegra.ph/file/9e7815284031452afa9e5.jpg"
+file3 = "https://telegra.ph/file/dcc5e003287f69acea368.jpg"
+file4 = "https://telegra.ph/file/ed1ce7fee94f46b0f671e.jpg"
+file5 = "https://telegra.ph/file/701028ce085ecfa961a36.jpg"
+""" =======================FALLEN ROBOT====================== """
 
 
 @register(pattern="/myinfo")
