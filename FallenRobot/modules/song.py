@@ -54,7 +54,7 @@ def song(client, message):
             info_dict = ydl.extract_info(link, download=False)
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
-        rep = f'🎙 **Title**: [{title[:35]}]({link})\n🎬 **Source**: YouTube\n⏱️ **Duration**: `{duration}`\n👁‍🗨 **Views**: `{views}`\n📤 **By**: [✓](https://telegra.ph/file/43e37874c6864b87cd5e2.jpg) [🇱🇰 ™ 𝙽𝙸𝙶𝙷𝚃 ⱽⁱˢˢⁱᵒⁿ 𝙱𝙾𝚃𝚂 ✧](t.me/NightVission)'
+        rep = f'🎙 **Title**: [{title[:35]}]({link})\n🎬 **Source**: YouTube\n⏱️ **Duration**: `{duration}`\n👁‍🗨 **Views**: `{views}`\n📤 **By**: [✓](https://telegra.ph/file/43e37874c6864b87cd5e2.jpg) [</ᴇᴘɪᴄ ʙᴏᴛs <s/ʟ>🇱🇰](t.me/EpicBotsSl)'
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
