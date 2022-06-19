@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-*ʜᴇʏ,\n ᴛʜɪs ɪs ᴄʟᴇʀᴀ* [!](https://telegra.ph/file/a2f6ba8dbdcf254ed60a2.jpg)\n\n *ɪ ᴀᴍ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ.\n  ɪ ʜᴀᴠᴇ ᴀᴡᴇsᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄʟɪᴄᴋ ᴏɴ ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ ᴏʀ ʜɪᴛ*​ /help
+*ʜᴇʏ,\n ᴛʜɪs ɪs ᴄʟᴇʀᴀ* [!](https://telegra.ph/file/eb19583d1ba5dd440bb1f.jpg)\n\n *ɪ ᴀᴍ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ.\n  ɪ ʜᴀᴠᴇ ᴀᴡᴇsᴏᴍᴇ ꜰᴇᴀᴛᴜʀᴇs ᴀɴᴅ ɴᴏ ᴏɴᴇ ᴄᴀɴ ʙᴇᴀᴛ ᴍᴇ\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄʟɪᴄᴋ ᴏɴ ᴄᴏᴍᴍᴀɴᴅs ʙᴜᴛᴛᴏɴ ᴏʀ ʜɪᴛ*​ /help
 """
 
 buttons = [
@@ -96,7 +96,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text=" sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/NightVission"
+            text=" sᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/EpicBotsSl"
         ),
         InlineKeyboardButton(
             text=" ᴅᴇᴠᴇʟᴏᴘᴇʀ ", url=f"https://t.me/NA_VA_N_JA_NA1"
@@ -104,7 +104,7 @@ buttons = [
     ],
 ]
 
-FallenRobot_IMG = "https://telegra.ph/file/43e37874c6864b87cd5e2.jpg"
+FallenRobot_IMG = "https://telegra.ph/file/eb19583d1ba5dd440bb1f.jpg"
 
 HELP_STRINGS = f"""
 ᴄʟᴇʀᴀ ʀᴏʙᴏᴛ *ᴇxᴄʟᴜsɪᴠᴇ ꜰᴇᴀᴛᴜʀᴇs*\n*» ᴄʜᴇᴄᴋᴏᴜᴛ ᴀʟʟ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs*\n*» ᴀʟʟ ᴏꜰ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ / ᴏʀ !*\n*» ɪꜰ ʏᴏᴜ ɢᴏᴛ ᴀɴʏ ɪssᴜᴇ ᴏʀ ʙᴜɢ ɪɴ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴘʟᴇᴀsᴇ ʀᴇᴘᴏʀᴛ ɪᴛ ᴛᴏ @{SUPPORT_CHAT}*\n\n*ㅤㅤㅤㅤㅤㅤ» ᴍᴀɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «*\n\n➲ /start : *ꜱᴛᴀʀᴛꜱ ᴍᴇ | ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍᴇ ʏᴏᴜ'ᴠᴇ ᴀʟʀᴇᴀᴅʏ ᴅᴏɴᴇ ɪᴛ​.*\n➲ /donate : *sᴜᴘᴘᴏʀᴛ ᴍᴇ ʙʏ ᴅᴏɴᴀᴛɪɴɢ ꜰᴏʀ ᴍʏ ʜᴀʀᴅᴡᴏʀᴋ​.*\n➲ /help  : *ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ ꜱᴇᴄᴛɪᴏɴ.*\n*  ‣ ɪɴ ᴘᴍ : ᴡɪʟʟ ꜱᴇɴᴅ ʏᴏᴜ ʜᴇʟᴘ​ ꜰᴏʀ ᴀʟʟ ꜱᴜᴘᴘᴏʀᴛᴇᴅ ᴍᴏᴅᴜʟᴇꜱ.*\n*  ‣ ɪɴ ɢʀᴏᴜᴘ : ᴡɪʟʟ ʀᴇᴅɪʀᴇᴄᴛ ʏᴏᴜ ᴛᴏ ᴘᴍ, ᴡɪᴛʜ ᴀʟʟ ᴛʜᴀᴛ ʜᴇʟᴘ​ ᴍᴏᴅᴜʟᴇꜱ.*"""
@@ -380,7 +380,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text="""*ʜᴇʏ,*\n\n*ᴛʜɪs ɪs ᴄʟᴇʀᴀ ʀᴏʙᴏᴛ*\n\n*ʜᴇʀᴇ ɪs ᴍʏ new and more details :* [🇱🇰 ™ 𝙽𝙸𝙶𝙷𝚃 ⱽⁱˢˢⁱᵒⁿ 𝙱𝙾𝚃𝚂 ✧](https://t.me/NightVission)\n\n*ᴍʏ Father is night Vission*\n*sᴏ ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ʀᴇǫᴜᴇsᴛ ᴀɴʏ ғᴇᴀᴛᴜʀᴇ, ᴩʟᴇᴀsᴇ ʟᴇᴛ ᴜs ᴋɴᴏᴡ ᴀᴛ* [🇱🇰 ™ 𝙽𝙸𝙶𝙷𝚃 ⱽⁱˢˢⁱᵒⁿ 𝙱𝙾𝚃𝚂 ✧](https://t.me/NightVission) *ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴩᴇʀ :* [ɴᴀᴠᴀɴᴊᴀɴᴀ](https://t.me/NA_VA_N_JA_NA1)""",
+            text="""*ʜᴇʏ,*\n\n*ᴛʜɪs ɪs ᴄʟᴇʀᴀ ʀᴏʙᴏᴛ*\n\n*ʜᴇʀᴇ ɪs ᴍʏ new and more details :* [</ᴇᴘɪᴄ ʙᴏᴛs <s/ʟ>🇱🇰](https://t.me/EpicBotsSl)\n\n*ᴍʏ Father is night Vission*\n*sᴏ ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ʀᴇǫᴜᴇsᴛ ᴀɴʏ ғᴇᴀᴛᴜʀᴇ, ᴩʟᴇᴀsᴇ ʟᴇᴛ ᴜs ᴋɴᴏᴡ ᴀᴛ* [</ᴇᴘɪᴄ ʙᴏᴛs <s/ʟ>🇱🇰](https://t.me/EpicBotsSl) *ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴩᴇʀ :* [ɴᴀᴠᴀɴᴊᴀɴᴀ](https://t.me/NA_VA_N_JA_NA1)""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -681,7 +681,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.send_photo(f"@{SUPPORT_CHAT}", "https://telegra.ph/file/36be820a8775f0bfc773e.jpg", caption="ᴄʟᴇʀᴀ ʀᴏʙᴏᴛ ɪs ᴀʟɪᴠᴇ !\n\nᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ ɴᴀᴠᴀɴᴊᴀɴᴀ 🥀")
+            dispatcher.bot.send_photo(f"@{SUPPORT_CHAT}", "https://telegra.ph/file/eb19583d1ba5dd440bb1f.jpg", caption="ᴄʟᴇʀᴀ ʀᴏʙᴏᴛ ɪs ᴀʟɪᴠᴇ !\n\nᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ ɴᴀᴠᴀɴᴊᴀɴᴀ 🥀")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
