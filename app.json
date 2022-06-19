@@ -1,7 +1,7 @@
 {
       "name": "ᴄʟᴇʀᴀ Robot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://telegra.ph/file/45784a10840048fed7df1.jpg",
+      "logo": "https://telegra.ph/file/eb19583d1ba5dd440bb1f.jpg",
       "keywords": [
          "telegram",
          "sexy",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/Captainamarica/Clera-Version0.1",
+   "repository": "https://github.com/EpicBotSl/Clera",
    "addons": [
       {
          "options": {
@@ -46,7 +46,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
-        "value": "1ece8e72-512c-47dd-a23d-ac83c99123df"
+        "value": ""
       },
       "HEROKU_APP_NAME": {
         "description": "Enter the Heroku app name here (Must an exact same name with your input above).",
