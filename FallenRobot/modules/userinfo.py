@@ -15,7 +15,6 @@ from telegram.utils.helpers import escape_markdown, mention_html
 
 from FallenRobot import (
     DEV_USERS,
-    OWNER_ID,
     DRAGONS,
     DEMONS,
     TIGERS,
